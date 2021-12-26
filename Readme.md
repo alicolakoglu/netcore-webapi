@@ -18,5 +18,5 @@
 - For create database in Package Manager Console run `update-database` command
 - Run API
 + *Default*
-	Username: test
-	Password: test
+	* Username: test
+	* Password: test
