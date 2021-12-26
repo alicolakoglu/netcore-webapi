@@ -1,4 +1,4 @@
-### .Net Core REST API
+### .Net Core WEB API
 - Simple Layered Architecture
 - Code First
 - MSSQL
@@ -8,7 +8,7 @@
 - Entity Framework
 - Dependency Injection
 - Data Service
-- Web API
+- RESTful API
 - JWT Bearer
 - Authentication
 - User/Policy Management
