@@ -1,6 +1,7 @@
 ### .Net Core REST API
 - Simple Layered Architecture
 - Code First
+- MSSQL
 - DB Mapping
 - Generic Repository
 - Unit Of Work
