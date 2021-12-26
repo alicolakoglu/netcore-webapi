@@ -8,6 +8,7 @@
 - Entity Framework
 - Dependency Injection
 - Data Service
+- JSON
 - RESTful API
 - JWT Bearer
 - Authentication
